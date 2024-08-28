@@ -31,4 +31,4 @@ Licensed under the [MIT](../master/LICENSE) license.
 
 ## Contact
 Feel free to give me feedback!  
-creative.spider.hand@gmail.com
+miguel.ccardoso92@gmail.com
